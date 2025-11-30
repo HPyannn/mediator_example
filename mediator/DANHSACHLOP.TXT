@@ -1,0 +1,9 @@
+5 3
+Nguyen Van A, 24120999 Math 7 DSA 9 OOP 4
+Huynh Thi B, 24120998 Math 5 DSA 6 OOP 7
+Vo Tran C, 24120997 Math 7 DSA 8 OOP 8
+Ha Thi D, 24120996 Math 6 DSA 6 OOP 6
+Nguyen Thi E, 24120999 Math 10 DSA 10 OOP 10
+Nguyen Van L, Math
+Nguyen Van M, DSA
+Nguyen Van N, OOP
